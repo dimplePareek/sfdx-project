@@ -1,5 +1,6 @@
 [
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app",
@@ -7,6 +8,15 @@
             "size": 0,
             "modifiedTime": 1555483226056,
             "changeTime": 1555483226056,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065433156,
+            "changeTime": 1555065433156,
+>>>>>>> origin/master
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
             "isMetadataFile": false,
             "state": "u",
@@ -15,6 +25,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main",
@@ -22,6 +33,15 @@
             "size": 0,
             "modifiedTime": 1555483226056,
             "changeTime": 1555483226056,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065433156,
+            "changeTime": 1555065433156,
+>>>>>>> origin/master
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
             "state": "u",
@@ -30,6 +50,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default",
         {
             "state": "u",
@@ -39,10 +60,22 @@
             "size": 0,
             "modifiedTime": 1555485295973,
             "changeTime": 1555485295973,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555482963276,
+            "changeTime": 1555482963276,
+>>>>>>> origin/master
             "contentHash": "381fcb71644a234f984f11204525aca77136e1c8"
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\applications",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\applications",
@@ -50,6 +83,15 @@
             "size": 0,
             "modifiedTime": 1555483226058,
             "changeTime": 1555483226058,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\applications",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555066687584,
+            "changeTime": 1555066687584,
+>>>>>>> origin/master
             "contentHash": "0f324ff30429959b768a269e8cc982ab638c2574",
             "isMetadataFile": false,
             "state": "u",
@@ -58,6 +100,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\applications\\DreamHouse.app-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\applications\\DreamHouse.app-meta.xml",
@@ -66,6 +109,16 @@
             "modifiedTime": 1555483226059,
             "changeTime": 1555483226059,
             "contentHash": "61d494acc88b1b65dac3bf8a7655d7694974d1b2",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\applications\\DreamHouse.app-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\applications\\DreamHouse.app-meta.xml",
+            "isDirectory": false,
+            "size": 1269,
+            "modifiedTime": 1555066687584,
+            "changeTime": 1555066687584,
+            "contentHash": "9622e94a9cc644a1752a065acda554626c986a21",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -73,6 +126,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura",
@@ -81,6 +135,16 @@
             "modifiedTime": 1555483342570,
             "changeTime": 1555483342733,
             "contentHash": "7756f06b50a9310d8356583a86bfb4271dd0158f",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555482356743,
+            "changeTime": 1555482356861,
+            "contentHash": "e2b8107157587620bbbcbdcfcab1115d7e2d9e23",
+>>>>>>> origin/master
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -88,6 +152,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel",
@@ -96,6 +161,16 @@
             "modifiedTime": 1555483342682,
             "changeTime": 1555483342748,
             "contentHash": "e512e19217572b795009ea3b274186955ac8ac47",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555482356818,
+            "changeTime": 1555482356871,
+            "contentHash": "046b15a995d673ba77c1902dd2e8ad4ad0794153",
+>>>>>>> origin/master
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -103,6 +178,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp",
@@ -111,6 +187,16 @@
             "modifiedTime": 1555064380458,
             "changeTime": 1555064380458,
             "contentHash": "09357cb46543defb28760231437abbb4f568b5a5",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp",
+            "isDirectory": false,
+            "size": 1358,
+            "modifiedTime": 1555064380715,
+            "changeTime": 1555064380715,
+            "contentHash": "7b65cfda31160f1709284fb6b3fc9a7d436bb685",
+>>>>>>> origin/master
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -118,6 +204,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.cmp-meta.xml",
@@ -126,6 +213,16 @@
             "modifiedTime": 1555064380491,
             "changeTime": 1555064380491,
             "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 240,
+            "modifiedTime": 1555064380667,
+            "changeTime": 1555064380667,
+            "contentHash": "ad7050acab8d4bcf276da1497889aff1939bd0bf",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -133,6 +230,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.css",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarousel.css",
@@ -141,6 +239,16 @@
             "modifiedTime": 1555064380413,
             "changeTime": 1555064380413,
             "contentHash": "dd8b20a2926e8de1c29cc3028ab71670e37cbc0d",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.css",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.css",
+            "isDirectory": false,
+            "size": 48,
+            "modifiedTime": 1555064380701,
+            "changeTime": 1555064380701,
+            "contentHash": "adc666af29ef78519608a7c6294650e15a0bbb97",
+>>>>>>> origin/master
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -148,6 +256,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselController.js",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselController.js",
@@ -156,6 +265,16 @@
             "modifiedTime": 1555064380397,
             "changeTime": 1555064380397,
             "contentHash": "01792be5934e9e4d8c66a64140ff35564cc6bf9a",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.design",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMap.design",
+            "isDirectory": false,
+            "size": 329,
+            "modifiedTime": 1555064380635,
+            "changeTime": 1555064380635,
+            "contentHash": "b05073bc489baf2feaae5bcb2f54004c711036d9",
+>>>>>>> origin/master
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -163,6 +282,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselHelper.js",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselHelper.js",
@@ -171,6 +291,16 @@
             "modifiedTime": 1555064380444,
             "changeTime": 1555064380444,
             "contentHash": "1c4a18f198a2275b29a9aa497ff37ad2955fc1d9",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapController.js",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapController.js",
+            "isDirectory": false,
+            "size": 1122,
+            "modifiedTime": 1555064380650,
+            "changeTime": 1555064380650,
+            "contentHash": "988b52ce6568058194e59353955353273c6683a9",
+>>>>>>> origin/master
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -178,6 +308,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselRenderer.js",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureCarousel\\PictureCarouselRenderer.js",
@@ -186,6 +317,16 @@
             "modifiedTime": 1555064380473,
             "changeTime": 1555064380473,
             "contentHash": "7cc8ab34ad310f4dc5ebd9c20ef346d11856fad0",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapHelper.js",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\aura\\RecordMap\\RecordMapHelper.js",
+            "isDirectory": false,
+            "size": 509,
+            "modifiedTime": 1555064380681,
+            "changeTime": 1555064380681,
+            "contentHash": "e04279ce255420ecd8fe43067d860403e6841981",
+>>>>>>> origin/master
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -193,6 +334,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\aura\\PictureGalleryCard",
@@ -305,6 +447,15 @@
             "size": 0,
             "modifiedTime": 1555483226064,
             "changeTime": 1555483226064,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555066687595,
+            "changeTime": 1555066687595,
+>>>>>>> origin/master
             "contentHash": "93a9fd0d59c9d405e5e6dac34af5651e251d5eb5",
             "isMetadataFile": false,
             "state": "u",
@@ -313,6 +464,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
@@ -321,6 +473,16 @@
             "modifiedTime": 1555483226061,
             "changeTime": 1555483226061,
             "contentHash": "14db65f56e85d70580a5e2d09177d1be5217cf3f",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls",
+            "isDirectory": false,
+            "size": 218,
+            "modifiedTime": 1555066687589,
+            "changeTime": 1555066687589,
+            "contentHash": "d3333b8ab3524c3adec23463294df8b5501a65d2",
+>>>>>>> origin/master
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -328,6 +490,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
@@ -336,6 +499,16 @@
             "modifiedTime": 1555483226062,
             "changeTime": 1555483226062,
             "contentHash": "5dba4d8d1d7ec0e924d941c2ab6e8f8963f526c1",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1555066687587,
+            "changeTime": 1555066687587,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -343,6 +516,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
@@ -351,6 +525,16 @@
             "modifiedTime": 1555483226064,
             "changeTime": 1555483226064,
             "contentHash": "16f6973b0efe56ccea1a41f16a3955bfbf55dea4",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls",
+            "isDirectory": false,
+            "size": 648,
+            "modifiedTime": 1555066687596,
+            "changeTime": 1555066687596,
+            "contentHash": "fd907305b468281de33b50328ae987f7e9c1f2bb",
+>>>>>>> origin/master
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -358,6 +542,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
@@ -366,6 +551,16 @@
             "modifiedTime": 1555483226066,
             "changeTime": 1555483226066,
             "contentHash": "5dba4d8d1d7ec0e924d941c2ab6e8f8963f526c1",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\classes\\DreamHouseSampleDataControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1555066687593,
+            "changeTime": 1555066687593,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -373,6 +568,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\contentassets",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\contentassets",
@@ -380,6 +576,15 @@
             "size": 0,
             "modifiedTime": 1555483226068,
             "changeTime": 1555483226068,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\contentassets",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\contentassets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555066687611,
+            "changeTime": 1555066687611,
+>>>>>>> origin/master
             "contentHash": "f971012450e568018567163dba004aa1a797660a",
             "isMetadataFile": false,
             "state": "u",
@@ -388,6 +593,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset",
@@ -395,6 +601,15 @@
             "size": 23382,
             "modifiedTime": 1555483226068,
             "changeTime": 1555483226068,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset",
+            "isDirectory": false,
+            "size": 23382,
+            "modifiedTime": 1555066687611,
+            "changeTime": 1555066687611,
+>>>>>>> origin/master
             "contentHash": "6d5b29819c501c5f2dcf1960d7e62cb903a5ce20",
             "isMetadataFile": false,
             "state": "u",
@@ -403,6 +618,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset-meta.xml",
@@ -411,6 +627,16 @@
             "modifiedTime": 1555483226069,
             "changeTime": 1555483226069,
             "contentHash": "a85fef50e79a63ca6f09983c3f410a3bf608d047",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\contentassets\\DreamHouseLogo.asset-meta.xml",
+            "isDirectory": false,
+            "size": 541,
+            "modifiedTime": 1555066687609,
+            "changeTime": 1555066687609,
+            "contentHash": "1387695cbfc76595b320445b57f8c2a2626a80cb",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -418,6 +644,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\flexipages",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\flexipages",
@@ -425,6 +652,15 @@
             "size": 0,
             "modifiedTime": 1555483226071,
             "changeTime": 1555483226071,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\flexipages",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555066687571,
+            "changeTime": 1555066687571,
+>>>>>>> origin/master
             "contentHash": "acc0f4dec1501866f499d4febcd7a93e2add31d7",
             "isMetadataFile": false,
             "state": "u",
@@ -433,6 +669,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
         {
             "state": "u",
@@ -453,6 +690,28 @@
             "size": 0,
             "modifiedTime": 1555483226074,
             "changeTime": 1555483226074,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\flexipages\\Property_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5935,
+            "modifiedTime": 1555482963256,
+            "changeTime": 1555482963256,
+            "contentHash": "6808ce97fd27cdd452031489a320b34ab8dbe0a8"
+        }
+    ],
+    [
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065821971,
+            "changeTime": 1555065821971,
+>>>>>>> origin/master
             "contentHash": "90b601961e1d62db7127edd64bc6eb78b8102458",
             "isMetadataFile": false,
             "state": "u",
@@ -461,6 +720,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
@@ -469,6 +729,16 @@
             "modifiedTime": 1555483226074,
             "changeTime": 1555483226074,
             "contentHash": "10959609d557b52af02daf24631bcbda5792ccf3",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\layouts\\Broker__c-Broker Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3357,
+            "modifiedTime": 1555066687563,
+            "changeTime": 1555066687563,
+            "contentHash": "76fbc9f37d18c624a017d420e43d75e457682cc2",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -476,6 +746,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
@@ -484,6 +755,16 @@
             "modifiedTime": 1555483226076,
             "changeTime": 1555483226076,
             "contentHash": "0861d1e3e3c4e1e52790be326e46a617cfea15ce",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\layouts\\Property__c-Property Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 4383,
+            "modifiedTime": 1555066687558,
+            "changeTime": 1555066687558,
+            "contentHash": "398f5ff104edff59c828f372774bbbcacf1727fa",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -491,6 +772,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\lwc",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\lwc",
@@ -498,6 +780,15 @@
             "size": 0,
             "modifiedTime": 1555483226078,
             "changeTime": 1555483226078,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555066055206,
+            "changeTime": 1555066055206,
+>>>>>>> origin/master
             "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
             "isMetadataFile": false,
             "state": "u",
@@ -506,6 +797,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects",
@@ -513,6 +805,15 @@
             "size": 0,
             "modifiedTime": 1555483226098,
             "changeTime": 1555483226098,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065821947,
+            "changeTime": 1555065821947,
+>>>>>>> origin/master
             "contentHash": "b18ab1fe7006b1926c6ec1cb2da75d0e9a5d9de3",
             "isMetadataFile": false,
             "state": "u",
@@ -521,6 +822,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c",
@@ -528,6 +830,15 @@
             "size": 0,
             "modifiedTime": 1555483226094,
             "changeTime": 1555483226094,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065821956,
+            "changeTime": 1555065821956,
+>>>>>>> origin/master
             "contentHash": "1e4d185e9253281dfddfaf9b577325f0187da8b5",
             "isMetadataFile": false,
             "state": "u",
@@ -536,6 +847,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
@@ -544,6 +856,16 @@
             "modifiedTime": 1555483226081,
             "changeTime": 1555483226081,
             "contentHash": "b2b27be12b3594a8d712d3a05ccbb523cf4c3177",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\Broker__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2018,
+            "modifiedTime": 1555066687550,
+            "changeTime": 1555066687550,
+            "contentHash": "23184b3ed1a8b2c8daf84f496b26e368e635f424",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -551,6 +873,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
@@ -558,6 +881,15 @@
             "size": 0,
             "modifiedTime": 1555483226082,
             "changeTime": 1555483226082,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065821949,
+            "changeTime": 1555065821949,
+>>>>>>> origin/master
             "contentHash": "682fec58be8259a53837e6e2f67f69ef8a60d190",
             "isMetadataFile": false,
             "state": "u",
@@ -566,6 +898,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
@@ -574,6 +907,16 @@
             "modifiedTime": 1555483226083,
             "changeTime": 1555483226083,
             "contentHash": "8f629ec0adeeb20179bb303eb93c47ac147e53c9",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\compactLayouts\\Broker_Compact.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1555065821949,
+            "changeTime": 1555065821949,
+            "contentHash": "6e5e20522933437a420f98f37bd3cd6114879e48",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -581,6 +924,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields",
@@ -588,6 +932,15 @@
             "size": 0,
             "modifiedTime": 1555483226092,
             "changeTime": 1555483226092,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065821955,
+            "changeTime": 1555065821955,
+>>>>>>> origin/master
             "contentHash": "2fb46ad3c33bf653b5eb69e67dbce12b7e2f6a0f",
             "isMetadataFile": false,
             "state": "u",
@@ -596,6 +949,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
@@ -604,6 +958,16 @@
             "modifiedTime": 1555483226085,
             "changeTime": 1555483226085,
             "contentHash": "ea24c0a4dd7602dabf89e2aae9ac5743ab58b0e3",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 332,
+            "modifiedTime": 1555065821951,
+            "changeTime": 1555065821951,
+            "contentHash": "2cca474a11fe69efa2b2a67d352ae6905c99bfea",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -611,6 +975,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
@@ -619,6 +984,16 @@
             "modifiedTime": 1555483226087,
             "changeTime": 1555483226087,
             "contentHash": "7eca4c5ea2e1a6b7582f8c59b12f98eb61e0c1e6",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Mobile_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 319,
+            "modifiedTime": 1555065821951,
+            "changeTime": 1555065821951,
+            "contentHash": "312ccfca2f9149ef19f3d3e6ba62d0b8602a0681",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -626,6 +1001,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
@@ -634,6 +1010,16 @@
             "modifiedTime": 1555483226089,
             "changeTime": 1555483226089,
             "contentHash": "4ad85a98e09708a520bcfb1b2c7ce88a01f4ce71",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 305,
+            "modifiedTime": 1555065821952,
+            "changeTime": 1555065821952,
+            "contentHash": "2a31a0600201166beb5798a9f209add1724f5747",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -641,6 +1027,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
@@ -649,6 +1036,16 @@
             "modifiedTime": 1555483226091,
             "changeTime": 1555483226091,
             "contentHash": "aef04b3b1d4625a5da4e592f617ca483b8b178e3",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 475,
+            "modifiedTime": 1555065821953,
+            "changeTime": 1555065821953,
+            "contentHash": "482283b0ac794fa83d28a8b6d061f8f46a02a0c7",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -656,6 +1053,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
@@ -664,6 +1062,16 @@
             "modifiedTime": 1555483226092,
             "changeTime": 1555483226092,
             "contentHash": "c6a68c38cb1d472dd0b827f8c43b919d9b4bdcbd",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 307,
+            "modifiedTime": 1555065821954,
+            "changeTime": 1555065821954,
+            "contentHash": "7cd3c0cc44339863436c2ea2314a7b1013ae6e2c",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -671,6 +1079,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
@@ -679,6 +1088,16 @@
             "modifiedTime": 1555483226093,
             "changeTime": 1555483226093,
             "contentHash": "b97651827e0db0c21c6dacd208fc0151372eb51c",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 355,
+            "modifiedTime": 1555065821955,
+            "changeTime": 1555065821955,
+            "contentHash": "9fa27aa9d1ad16bbcd462b1d0116e077ec8c2b88",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -686,6 +1105,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\listViews",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\listViews",
@@ -693,6 +1113,15 @@
             "size": 0,
             "modifiedTime": 1555483226096,
             "changeTime": 1555483226096,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065821957,
+            "changeTime": 1555065821957,
+>>>>>>> origin/master
             "contentHash": "915f0742a4220017a64d6be3c304efdec607b791",
             "isMetadataFile": false,
             "state": "u",
@@ -701,6 +1130,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
@@ -709,6 +1139,16 @@
             "modifiedTime": 1555483226096,
             "changeTime": 1555483226096,
             "contentHash": "69b4346bcf00c7196c1c27df0d76b98e4520edef",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 232,
+            "modifiedTime": 1555065821956,
+            "changeTime": 1555065821956,
+            "contentHash": "764dc03192d07c05acef0cf8216fdf436de749a6",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -716,6 +1156,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All1.listView-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All1.listView-meta.xml",
@@ -724,6 +1165,16 @@
             "modifiedTime": 1555483226097,
             "changeTime": 1555483226097,
             "contentHash": "74ec816328e335481ec645c8a4eadda8ee4a98ca",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All1.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Broker__c\\listViews\\All1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1555065821957,
+            "changeTime": 1555065821957,
+            "contentHash": "301c9a001074105644f45e03f6240b10381e43c0",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -731,6 +1182,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c",
@@ -738,6 +1190,15 @@
             "size": 0,
             "modifiedTime": 1555483226148,
             "changeTime": 1555483226148,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065821917,
+            "changeTime": 1555065821917,
+>>>>>>> origin/master
             "contentHash": "290b3cf58b90838e68e985055e7d1a0d07ec710e",
             "isMetadataFile": false,
             "state": "u",
@@ -746,6 +1207,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
@@ -753,6 +1215,15 @@
             "size": 0,
             "modifiedTime": 1555483226100,
             "changeTime": 1555483226100,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065821896,
+            "changeTime": 1555065821896,
+>>>>>>> origin/master
             "contentHash": "6090013c56ec66c627fbb64f1e135c3d4e595eb8",
             "isMetadataFile": false,
             "state": "u",
@@ -761,6 +1232,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
@@ -769,6 +1241,16 @@
             "modifiedTime": 1555483226102,
             "changeTime": 1555483226102,
             "contentHash": "4b8a0259a2924150bfd2ccbe117ff5dc80a7b516",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\compactLayouts\\Property_Compact_Layout.compactLayout-meta.xml",
+            "isDirectory": false,
+            "size": 356,
+            "modifiedTime": 1555066687508,
+            "changeTime": 1555066687508,
+            "contentHash": "3e30d624372e00823cfa781b526f80f988359744",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -776,6 +1258,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields",
@@ -783,6 +1266,15 @@
             "size": 0,
             "modifiedTime": 1555483226144,
             "changeTime": 1555483226144,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555066687533,
+            "changeTime": 1555066687533,
+>>>>>>> origin/master
             "contentHash": "29ceeb8fa30f8ece2d6f465924ff5579d1f80a7c",
             "isMetadataFile": false,
             "state": "u",
@@ -791,6 +1283,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
@@ -799,6 +1292,16 @@
             "modifiedTime": 1555483226104,
             "changeTime": 1555483226104,
             "contentHash": "be50dd913ffda54b2d6ac911352abbfbbb16451f",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Address__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 446,
+            "modifiedTime": 1555065821897,
+            "changeTime": 1555065821897,
+            "contentHash": "1a226f009dd63c156d3971f8c3763a7070e754cb",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -806,6 +1309,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
@@ -814,6 +1318,16 @@
             "modifiedTime": 1555483226106,
             "changeTime": 1555483226106,
             "contentHash": "2a188dfac8e9ecc11c007c5247fd2cd7f4af7db8",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Assessed_Value__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 463,
+            "modifiedTime": 1555065821898,
+            "changeTime": 1555065821898,
+            "contentHash": "cf5658464be2f9fde5fa17e212379ccc64ab8c62",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -821,6 +1335,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
@@ -829,6 +1344,16 @@
             "modifiedTime": 1555483226108,
             "changeTime": 1555483226108,
             "contentHash": "71e79c5dbaeab6958bcf5d2095f2fb59fccbcda6",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Baths__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 469,
+            "modifiedTime": 1555065821899,
+            "changeTime": 1555065821899,
+            "contentHash": "15da5bc8740561ec4af7c847db5dee799210abf8",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -836,6 +1361,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
@@ -844,6 +1370,16 @@
             "modifiedTime": 1555483226109,
             "changeTime": 1555483226109,
             "contentHash": "a7da624123896fae46570918c87d7a8947258405",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Beds__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 467,
+            "modifiedTime": 1555065821900,
+            "changeTime": 1555065821900,
+            "contentHash": "42a87a704a89133b81fa0d30c2ee7ce853678818",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -851,6 +1387,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
@@ -859,6 +1396,16 @@
             "modifiedTime": 1555483226110,
             "changeTime": 1555483226110,
             "contentHash": "49946de4b1e0c169d32218d157ddb042ade3afc6",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Broker__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 590,
+            "modifiedTime": 1555065821901,
+            "changeTime": 1555065821901,
+            "contentHash": "1adfb82fcd63bd84e97886f1f40eab71dd23da7b",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -866,6 +1413,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
@@ -874,6 +1422,16 @@
             "modifiedTime": 1555483226112,
             "changeTime": 1555483226112,
             "contentHash": "20911749845157350ddf3bbfa4851e727b32236c",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1555065821902,
+            "changeTime": 1555065821902,
+            "contentHash": "9252e41ea4860528be191fc3940f202e3aa4da71",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -881,6 +1439,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
@@ -889,6 +1448,16 @@
             "modifiedTime": 1555483226114,
             "changeTime": 1555483226114,
             "contentHash": "6404a227633ccb5cc970b957061f1992108953ad",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Agreement__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 408,
+            "modifiedTime": 1555065821903,
+            "changeTime": 1555065821903,
+            "contentHash": "50fc12cf023ffb086c47e4621b16bf08d4b1b0d6",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -896,6 +1465,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
@@ -904,6 +1474,16 @@
             "modifiedTime": 1555483226115,
             "changeTime": 1555483226115,
             "contentHash": "feca4699f4f2b9e237845ee54a22b281b84ec756",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Closed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 402,
+            "modifiedTime": 1555065821904,
+            "changeTime": 1555065821904,
+            "contentHash": "37cdcf1162540f4cbdc414d9807409d71c4f4ec9",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -911,6 +1491,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
@@ -919,6 +1500,16 @@
             "modifiedTime": 1555483226117,
             "changeTime": 1555483226117,
             "contentHash": "10ed9cabeb63aed5217859e78e1fa8385061760f",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Contracted__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 410,
+            "modifiedTime": 1555066687529,
+            "changeTime": 1555066687529,
+            "contentHash": "960800835ac37c31f81caea228bf48abf1c46285",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -926,6 +1517,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
@@ -934,6 +1526,16 @@
             "modifiedTime": 1555483226118,
             "changeTime": 1555483226118,
             "contentHash": "c342474e1f9a9149a9a75c20963e4eeb1f0bfe51",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Listed__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 448,
+            "modifiedTime": 1555066687515,
+            "changeTime": 1555066687515,
+            "contentHash": "6849ac6ed9ff9d161a4081a614bf68034cb69d87",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -941,6 +1543,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
@@ -949,6 +1552,16 @@
             "modifiedTime": 1555483226119,
             "changeTime": 1555483226119,
             "contentHash": "db4db386adf914dcaeec726a1ed04fdcc7d5d1de",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Date_Pre_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 410,
+            "modifiedTime": 1555066687530,
+            "changeTime": 1555066687530,
+            "contentHash": "bd592d5febc471d5b70fa14b321aeceb8ebdada9",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -956,6 +1569,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
@@ -964,6 +1578,16 @@
             "modifiedTime": 1555483226121,
             "changeTime": 1555483226121,
             "contentHash": "1677305363d84ddba0077017e1ac83501b5f51fc",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Days_On_Market__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 550,
+            "modifiedTime": 1555066687532,
+            "changeTime": 1555066687532,
+            "contentHash": "ce40ee2e334d4751df64c99e0cc6618f50ab87d3",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -971,6 +1595,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
@@ -979,6 +1604,16 @@
             "modifiedTime": 1555483226123,
             "changeTime": 1555483226123,
             "contentHash": "6dc0c2363708251636cde95e724ba010835a4a39",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 439,
+            "modifiedTime": 1555066687516,
+            "changeTime": 1555066687516,
+            "contentHash": "b91a9f6eaeb6624717c5372cb41cb331d577a83d",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -986,6 +1621,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
@@ -994,6 +1630,16 @@
             "modifiedTime": 1555483226126,
             "changeTime": 1555483226126,
             "contentHash": "1c67fb335174cda18abfc96c971b4e4fb2ad4bd3",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 483,
+            "modifiedTime": 1555065821906,
+            "changeTime": 1555065821906,
+            "contentHash": "412bfb6e08fb55d374f40c7dc28a7cf2c3aabb46",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1001,6 +1647,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
@@ -1009,6 +1656,16 @@
             "modifiedTime": 1555483226127,
             "changeTime": 1555483226127,
             "contentHash": "553d0c39a194704534b3cd2aeb796cc5a7e3fee5",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 543,
+            "modifiedTime": 1555066687519,
+            "changeTime": 1555066687519,
+            "contentHash": "29b86063a8f3495cee89c109ee5baa19e0bf8641",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1016,6 +1673,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
@@ -1024,6 +1682,16 @@
             "modifiedTime": 1555483226130,
             "changeTime": 1555483226130,
             "contentHash": "61cde69b92e494a7c8eefe4a8bea5c4364b3a9e5",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Picture__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 393,
+            "modifiedTime": 1555065821908,
+            "changeTime": 1555065821908,
+            "contentHash": "d067b497c7d1660d752e69f88b49ce2c79af5537",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1031,6 +1699,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
@@ -1039,6 +1708,16 @@
             "modifiedTime": 1555483226132,
             "changeTime": 1555483226132,
             "contentHash": "c2ad21ce94d1eb87a35f83c95a8c953a6a32a795",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Price__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1555065821909,
+            "changeTime": 1555065821909,
+            "contentHash": "55572fea8d72d76790b99420a2252132a601c722",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1046,6 +1725,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
@@ -1054,6 +1734,16 @@
             "modifiedTime": 1555483226133,
             "changeTime": 1555483226133,
             "contentHash": "67ff326bb032ce1b3b02d14cb716584980fa3394",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Record_Link__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 561,
+            "modifiedTime": 1555065821910,
+            "changeTime": 1555065821910,
+            "contentHash": "66bc9b367bd030156dbc48ede4b4d98e33bf61f5",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1061,6 +1751,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
@@ -1069,6 +1760,16 @@
             "modifiedTime": 1555483226134,
             "changeTime": 1555483226134,
             "contentHash": "94b9542ffcba6f4face1e49975e8ad76a0bc5a52",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\RemoveMe__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 447,
+            "modifiedTime": 1555066687533,
+            "changeTime": 1555066687533,
+            "contentHash": "6fa0fc10711ed0799dd611799172c9ee391cfab1",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1076,6 +1777,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
@@ -1084,6 +1786,16 @@
             "modifiedTime": 1555483226136,
             "changeTime": 1555483226136,
             "contentHash": "7bca49bea03a750b02586b389c7fc064aab2ab37",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 441,
+            "modifiedTime": 1555065821911,
+            "changeTime": 1555065821911,
+            "contentHash": "0946570c4ff99b95a14de2fa788428bead211499",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1091,6 +1803,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
@@ -1099,6 +1812,16 @@
             "modifiedTime": 1555483226137,
             "changeTime": 1555483226137,
             "contentHash": "8922f178e72452beb545c05ef5a45ff968f1f74c",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1380,
+            "modifiedTime": 1555066687523,
+            "changeTime": 1555066687523,
+            "contentHash": "47e4c1697d198d7f0af4f9be9e4adbc239848bdf",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1106,6 +1829,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
@@ -1114,6 +1838,16 @@
             "modifiedTime": 1555483226138,
             "changeTime": 1555483226138,
             "contentHash": "734adebed140f47403e329bfb8e59283a7ad484b",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Tags__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 440,
+            "modifiedTime": 1555065821913,
+            "changeTime": 1555065821913,
+            "contentHash": "f16ce261391485bd043c9363860f4b9c5a2334ad",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1121,6 +1855,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
@@ -1129,6 +1864,16 @@
             "modifiedTime": 1555483226140,
             "changeTime": 1555483226140,
             "contentHash": "05b4f9efd36d9e3bdc04cf6ab944356d1e5032c4",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail_IMG__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 563,
+            "modifiedTime": 1555065821914,
+            "changeTime": 1555065821914,
+            "contentHash": "0ad52af63e43de0322dac7c3299c011a75561cfd",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1136,6 +1881,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
@@ -1144,6 +1890,16 @@
             "modifiedTime": 1555483226142,
             "changeTime": 1555483226142,
             "contentHash": "538eb7ee0ac8ce0eba4ec9a545364f4a7fbfed94",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Thumbnail__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1555065821915,
+            "changeTime": 1555065821915,
+            "contentHash": "e5bb343d5d3dc341a33563bfef587324ffb541f7",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1151,6 +1907,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
@@ -1159,6 +1916,16 @@
             "modifiedTime": 1555483226143,
             "changeTime": 1555483226143,
             "contentHash": "d405f8a98bcaefbae3ca904dd3b66b515ba406ba",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 442,
+            "modifiedTime": 1555065821916,
+            "changeTime": 1555065821916,
+            "contentHash": "b5160ea3018d0b196a6260135fee211b6700431c",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1166,6 +1933,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
@@ -1174,6 +1942,16 @@
             "modifiedTime": 1555483226145,
             "changeTime": 1555483226145,
             "contentHash": "b657031a634c270cb99dbc0050eb43716c76f550",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\fields\\Zip__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1555065821917,
+            "changeTime": 1555065821917,
+            "contentHash": "cdabe1dd18e0352ec9bc40bf10a762bac1b1f805",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1181,6 +1959,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews",
@@ -1188,6 +1967,15 @@
             "size": 0,
             "modifiedTime": 1555483226152,
             "changeTime": 1555483226152,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555065821921,
+            "changeTime": 1555065821921,
+>>>>>>> origin/master
             "contentHash": "dd8467e453efb4c52ec25382d1f7155f2c25dbc9",
             "isMetadataFile": false,
             "state": "u",
@@ -1196,6 +1984,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
@@ -1204,6 +1993,16 @@
             "modifiedTime": 1555483226149,
             "changeTime": 1555483226149,
             "contentHash": "789283f00ec38093ec81342c916b66d7ca7eec43",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 326,
+            "modifiedTime": 1555065821918,
+            "changeTime": 1555065821918,
+            "contentHash": "2880d5b0d580ff7b7df8b437c163aad73c093f54",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1211,6 +2010,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews\\All1.listView-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews\\All1.listView-meta.xml",
@@ -1219,6 +2019,16 @@
             "modifiedTime": 1555483226150,
             "changeTime": 1555483226150,
             "contentHash": "74ec816328e335481ec645c8a4eadda8ee4a98ca",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\All1.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\All1.listView-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1555065821919,
+            "changeTime": 1555065821919,
+            "contentHash": "301c9a001074105644f45e03f6240b10381e43c0",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1226,6 +2036,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews\\New_Listings.listView-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews\\New_Listings.listView-meta.xml",
@@ -1234,6 +2045,16 @@
             "modifiedTime": 1555483226152,
             "changeTime": 1555483226152,
             "contentHash": "9f0d5140d2def41d169ae0ad6186bf5cdf660e57",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\New_Listings.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\New_Listings.listView-meta.xml",
+            "isDirectory": false,
+            "size": 391,
+            "modifiedTime": 1555065821920,
+            "changeTime": 1555065821920,
+            "contentHash": "4b3bb09780c05bc82d66a17c6083be9a0d2e6b3f",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1241,6 +2062,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews\\Top_Listings.listView-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\listViews\\Top_Listings.listView-meta.xml",
@@ -1249,6 +2071,16 @@
             "modifiedTime": 1555483226153,
             "changeTime": 1555483226153,
             "contentHash": "75bf76158a6451a6e827627cec671cdfcc2f5ff1",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\Top_Listings.listView-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\listViews\\Top_Listings.listView-meta.xml",
+            "isDirectory": false,
+            "size": 627,
+            "modifiedTime": 1555065821921,
+            "changeTime": 1555065821921,
+            "contentHash": "b70cd788a94afb8274601142490c033d9b309170",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1256,6 +2088,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
@@ -1264,6 +2097,16 @@
             "modifiedTime": 1555483226099,
             "changeTime": 1555483226099,
             "contentHash": "739bf584cec4529630ccef45eee4ea286284180b",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\objects\\Property__c\\Property__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 3370,
+            "modifiedTime": 1555066687507,
+            "changeTime": 1555066687507,
+            "contentHash": "b7bf6dbbe73f808ee616e30af01400590c9ee11a",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1271,6 +2114,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\pages",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\pages",
@@ -1278,6 +2122,15 @@
             "size": 0,
             "modifiedTime": 1555483226157,
             "changeTime": 1555483226157,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555066687469,
+            "changeTime": 1555066687469,
+>>>>>>> origin/master
             "contentHash": "a80c01d29abdebaa3ec23ce2af31ac6e0761811a",
             "isMetadataFile": false,
             "state": "u",
@@ -1286,6 +2139,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
@@ -1294,6 +2148,16 @@
             "modifiedTime": 1555483226156,
             "changeTime": 1555483226156,
             "contentHash": "3ab7bd0bb859d7c4c3ada05c284cc9046de99ed9",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page",
+            "isDirectory": false,
+            "size": 20142,
+            "modifiedTime": 1555066687470,
+            "changeTime": 1555066687470,
+            "contentHash": "f13563d0348bb85774aa87a0dda23d504cfd1ce1",
+>>>>>>> origin/master
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false,
@@ -1301,6 +2165,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
@@ -1309,6 +2174,16 @@
             "modifiedTime": 1555483226158,
             "changeTime": 1555483226158,
             "contentHash": "6156e53512dbe48ba18b79cd07f31b62dc6fa12b",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\pages\\DreamHouseSampleData.page-meta.xml",
+            "isDirectory": false,
+            "size": 296,
+            "modifiedTime": 1555066687466,
+            "changeTime": 1555066687466,
+            "contentHash": "563f8cc03ab26fae2dd530e2dcee613bb73e9554",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1316,6 +2191,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\permissionsets",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\permissionsets",
@@ -1323,6 +2199,15 @@
             "size": 0,
             "modifiedTime": 1555483226159,
             "changeTime": 1555483226159,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555066687605,
+            "changeTime": 1555066687605,
+>>>>>>> origin/master
             "contentHash": "e790bf51c03a2ab8137b34755957f7f33a25101f",
             "isMetadataFile": false,
             "state": "u",
@@ -1331,6 +2216,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\permissionsets\\DreamHouse.permissionset-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\permissionsets\\DreamHouse.permissionset-meta.xml",
@@ -1339,6 +2225,16 @@
             "modifiedTime": 1555483226160,
             "changeTime": 1555483226160,
             "contentHash": "a59e08f4de2d00a58af28f8ba15d04df58bf853a",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\permissionsets\\DreamHouse.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\permissionsets\\DreamHouse.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 6538,
+            "modifiedTime": 1555066687606,
+            "changeTime": 1555066687606,
+            "contentHash": "8874fd3a78d6f63139dfe5f3949f93fef778db70",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1346,6 +2242,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\tabs",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\tabs",
@@ -1353,6 +2250,15 @@
             "size": 0,
             "modifiedTime": 1555483226163,
             "changeTime": 1555483226163,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555066687578,
+            "changeTime": 1555066687578,
+>>>>>>> origin/master
             "contentHash": "fda2cac10cefed405d678862a07da7434a22fc58",
             "isMetadataFile": false,
             "state": "u",
@@ -1361,6 +2267,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
@@ -1369,6 +2276,16 @@
             "modifiedTime": 1555483226161,
             "changeTime": 1555483226161,
             "contentHash": "f98a6db2c08a1a4f86b79a6a3ef218d3a914c009",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\tabs\\Broker__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 226,
+            "modifiedTime": 1555066687581,
+            "changeTime": 1555066687581,
+            "contentHash": "24677b40b89c6d3b1bdf2f5e7ebfbc0d1ebfd681",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1376,6 +2293,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
@@ -1384,6 +2302,16 @@
             "modifiedTime": 1555483226163,
             "changeTime": 1555483226163,
             "contentHash": "bc308fe912257675be5321fbf19d8389008fb895",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\tabs\\Property__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 233,
+            "modifiedTime": 1555066687576,
+            "changeTime": 1555066687576,
+            "contentHash": "11977e44e3c2b694b10dcce2bba0764909a199f1",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1391,6 +2319,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
@@ -1399,6 +2328,16 @@
             "modifiedTime": 1555483226165,
             "changeTime": 1555483226165,
             "contentHash": "a7899d9b4bdee024bb08fbfa5378e0e5ef01d25b",
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\tabs\\Sample_Data_Import.tab-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1555066687579,
+            "changeTime": 1555066687579,
+            "contentHash": "0dc924ea679678792ab06e246c309a33ed62196a",
+>>>>>>> origin/master
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -1406,6 +2345,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria",
         {
             "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria",
@@ -1413,6 +2353,15 @@
             "size": 0,
             "modifiedTime": 1555483226165,
             "changeTime": 1555485072348,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan",
+        {
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1555481652701,
+            "changeTime": 1555481652701,
+>>>>>>> origin/master
             "contentHash": "6615a1f78b0e19983048f74784fb46689d82fef9",
             "isMetadataFile": false,
             "state": "u",
@@ -1421,6 +2370,7 @@
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
             "state": "u",
@@ -1430,10 +2380,22 @@
             "size": 25623,
             "modifiedTime": 1555485295995,
             "changeTime": 1555485295995,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 25623,
+            "modifiedTime": 1555482963293,
+            "changeTime": 1555482963293,
+>>>>>>> origin/master
             "contentHash": "edbd7c2383b45f0b29719760b933831a77c8a671"
         }
     ],
     [
+<<<<<<< HEAD
         "C:\\Users\\Appirio-14051\\Desktop\\sfdx-maria\\force-app\\main\\default\\profiles",
         {
             "state": "u",
@@ -1443,6 +2405,17 @@
             "size": 0,
             "modifiedTime": 1555485295992,
             "changeTime": 1555485295992,
+=======
+        "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Appirio-14051\\Desktop\\sfdx-chan\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555482963292,
+            "changeTime": 1555482963292,
+>>>>>>> origin/master
             "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c"
         }
     ]
